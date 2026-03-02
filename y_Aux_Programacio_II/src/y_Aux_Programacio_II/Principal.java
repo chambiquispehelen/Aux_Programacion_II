@@ -12,6 +12,7 @@ public class Principal {
 
         Instrumento i1 = new Instrumento("Violin", "Madera", "Cuerda");
         Instrumento i2 = new Instrumento("Flauta", "Metal", "Aire");
+        Instrumento i3 = new Instrumento("Flauta", "Metal", "Aire");
         
         
         System.out.println("Televisor: "+t1);
